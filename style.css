@@ -1,0 +1,57 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-color: #444C38;
+  color:white;
+}
+img{
+  border:7px solid#BC8F8F; 
+}
+.one{
+  color: #E4D00A;
+  font-family: 'Teko', sans-serif;
+}
+.ok{
+  color:#BC8F8F;
+  font-family: 'Teko', sans-serif;
+}
+.yo{
+  color:#E4D00A;
+  font-family: 'Teko', sans-serif;
+}
+.two{
+  font-family: 'IBM Plex Mono', monospace;
+}
+a:link {
+  color: #BC8F8F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #BC8F8F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5072A7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:#BC8F8F ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.yoo{
+  color:#5072A7;
+  font-family: 'IBM Plex Mono', monospace;
+}
+.list{
+  font-family: 'IBM Plex Mono', monospace;
+}
